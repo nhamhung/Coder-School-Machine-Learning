@@ -1,6 +1,6 @@
 # Summer 2020 Coder School Machine Learning Bootcamp
 
-![Link to my Final Project](https://github.com/nhamhung/Final-Project-With-SketchRNN)
+[Link to my Final Project](https://github.com/nhamhung/Final-Project-With-SketchRNN)
 
 ## Syllabus
 
