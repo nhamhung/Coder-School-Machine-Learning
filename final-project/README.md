@@ -1,5 +1,7 @@
 # Implement a children doodle website based on Google `Quick, Draw!` and `Sketch-RNN`
 
+[Link to Final Project](https://github.com/nhamhung/Final-Project-With-SketchRNN)
+
 ## Introduction
 
 - At a younger age, children begin to learn about the world around them and express their perception through drawings. Interestingly, the super complex real world becomes greatly simplified under children's hands where they model everything as simple sketches. And through these sketches, children learn to extract distinct features from a complex object and turn them into comprehensible forms that represent the object well. In fact, for many among us, the very first sketches which we drew from young would also follow us way later into adulthood. It is a manifestation of our identity, culture, upbringings and more specifically, the country where we grew up. This idea is what interests and motivates me to begin looking into sketching as an inspiration for my final project.
